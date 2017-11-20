@@ -1,0 +1,96 @@
+﻿.body {background-color: lightgray;
+}
+
+/*font-family: 'Vollkorn SC', serif; 
+font-family: 'Source Serif Pro', serif; 
+font-family: 'Quattrocento', serif; 
+font-family: 'Volkhov', serif; 
+font-family: 'Gentium Book Basic', serif;*/
+
+/*HEADER*/
+.mainSection{
+    background-color: white;
+    margin: 20px 150px 20px 150px;
+}
+.header{
+    height: 285px;
+    width: 100%;
+    padding: 80px 0px 35px 0px;
+    border-bottom: groove 2px lightgrey;
+}
+
+.name {
+    font-family: 'Vollkorn SC', serif;
+    font-size: 85px;
+    text-align: center;
+}
+
+.jobTitle {
+    font-family: 'Source Serif Pro', serif;
+    
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+.schoolName {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+    margin: 10px 0px 20px 0px;
+    padding-bottom: 20px;
+}
+/*NAVBAR STYLING*/
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    font-family: 'Vollkorn SC', serif;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+    font-family: 'Vollkorn SC', serif;
+    font-size: 18px;
+}
+
+#navvy a:link {
+    text-decoration: none;
+    color: black;
+    
+}
+#navvy a:visited {
+    text-decoration: none;
+    color: black;
+    
+}
+#navvy a:active {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+
+.mainPic{
+    max-height: 400px;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.snapshot {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.researchFocus {
+    font-family: 'Vollkorn SC', serif;
+    text-align: center;
+    margin: 20px 0px 10px 0px;
+}
+.researchParagraph {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+}
